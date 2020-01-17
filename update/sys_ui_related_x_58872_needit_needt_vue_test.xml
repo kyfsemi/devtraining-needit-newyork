@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_58872_needit_needt" version="2" view="vue_test">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Needt - Vue_test" name="x_58872_needit_needt" related_list="NULL" sys_domain="global" view="78568865db9200102363e9c9489619da">0656c069db9200102363e9c948961984</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>task_group.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-11 23:38:20</sys_created_on>
+            <sys_id>4e56c069db9200102363e9c948961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-11 23:38:20</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Needt - Vue_test" name="x_58872_needit_needt" related_list="NULL" sys_domain="global" view="78568865db9200102363e9c9489619da">0656c069db9200102363e9c948961984</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>itil_appointment.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-11 23:38:20</sys_created_on>
+            <sys_id>4256c069db9200102363e9c948961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-11 23:38:20</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Needt - Vue_test" name="x_58872_needit_needt" related_list="NULL" sys_domain="global" view="78568865db9200102363e9c9489619da">0656c069db9200102363e9c948961984</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>m2m_kb_task.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-11 23:38:20</sys_created_on>
+            <sys_id>4656c069db9200102363e9c948961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-11 23:38:20</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Needt - Vue_test" name="x_58872_needit_needt" related_list="NULL" sys_domain="global" view="78568865db9200102363e9c9489619da">0656c069db9200102363e9c948961984</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>cab_attendee.attending_for_tasks</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-11 23:38:20</sys_created_on>
+            <sys_id>4a56c069db9200102363e9c948961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-11 23:38:20</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Needt - Vue_test" name="x_58872_needit_needt" related_list="NULL" sys_domain="global" view="78568865db9200102363e9c9489619da">0656c069db9200102363e9c948961984</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>change_phase.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-11 23:38:20</sys_created_on>
+            <sys_id>4e56c069db9200102363e9c948961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-11 23:38:20</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Needt - Vue_test" name="x_58872_needit_needt" related_list="NULL" sys_domain="global" view="78568865db9200102363e9c9489619da">0656c069db9200102363e9c948961984</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>change_task.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-11 23:38:20</sys_created_on>
+            <sys_id>4256c069db9200102363e9c948961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-11 23:38:20</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Needt - Vue_test" name="x_58872_needit_needt" related_list="NULL" sys_domain="global" view="78568865db9200102363e9c9489619da">0656c069db9200102363e9c948961984</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>REL:8f576281c3100200e280dccdf3d3aed8</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-11 23:38:20</sys_created_on>
+            <sys_id>4656c069db9200102363e9c948961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-11 23:38:20</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Needt - Vue_test</calculated_name>
+            <filter/>
+            <name>x_58872_needit_needt</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-11 23:38:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0656c069db9200102363e9c948961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Needt - Vue_test</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_related_x_58872_needit_needt_vue_test</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-11 23:38:20</sys_updated_on>
+            <sys_user/>
+            <view display_value="Vue_test" name="vue_test">78568865db9200102363e9c9489619da</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Needt" max_length="40" name="x_58872_needit_needt" sizeclass="5" type="collection">
+        <element default="true" label="Avis" max_length="50" name="avis" reference="alm_asset" type="conditions"/>
+        <element default="jjmmaaaa" display="true" label="Date avis" mandatory="true" max_length="40" name="date_avis" type="calendar_date_time"/>
+        <element label="Active" max_length="40" name="u_boolean_1" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="When Needed" max_length="40" name="u_calendar_date_time_2" type="calendar_date_time"/>
+        <element label="Valeur" max_length="40" name="u_integer_2" read_only="true" type="integer"/>
+    </element>
+</database>
